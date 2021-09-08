@@ -1,0 +1,10 @@
+C:\Users\Vermouth\source\repos\Calc_Le_Tien_Dat\Calc_Le_Tien_Dat\bin\Debug\Calc_Le_Tien_Dat.exe.config
+C:\Users\Vermouth\source\repos\Calc_Le_Tien_Dat\Calc_Le_Tien_Dat\bin\Debug\Calc_Le_Tien_Dat.exe
+C:\Users\Vermouth\source\repos\Calc_Le_Tien_Dat\Calc_Le_Tien_Dat\bin\Debug\Calc_Le_Tien_Dat.pdb
+C:\Users\Vermouth\source\repos\Calc_Le_Tien_Dat\Calc_Le_Tien_Dat\obj\Debug\Calc_Le_Tien_Dat.csproj.AssemblyReference.cache
+C:\Users\Vermouth\source\repos\Calc_Le_Tien_Dat\Calc_Le_Tien_Dat\obj\Debug\Calc_Le_Tien_Dat.Form1.resources
+C:\Users\Vermouth\source\repos\Calc_Le_Tien_Dat\Calc_Le_Tien_Dat\obj\Debug\Calc_Le_Tien_Dat.Properties.Resources.resources
+C:\Users\Vermouth\source\repos\Calc_Le_Tien_Dat\Calc_Le_Tien_Dat\obj\Debug\Calc_Le_Tien_Dat.csproj.GenerateResource.cache
+C:\Users\Vermouth\source\repos\Calc_Le_Tien_Dat\Calc_Le_Tien_Dat\obj\Debug\Calc_Le_Tien_Dat.csproj.CoreCompileInputs.cache
+C:\Users\Vermouth\source\repos\Calc_Le_Tien_Dat\Calc_Le_Tien_Dat\obj\Debug\Calc_Le_Tien_Dat.exe
+C:\Users\Vermouth\source\repos\Calc_Le_Tien_Dat\Calc_Le_Tien_Dat\obj\Debug\Calc_Le_Tien_Dat.pdb
